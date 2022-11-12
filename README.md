@@ -10,7 +10,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!---
-ol333eh/ol333eh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
  My speciality. Finance and credit. At the same time I study progeaming, development and mobile development.
