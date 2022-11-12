@@ -2,8 +2,8 @@
 - 👀 I’m interested in technology, life, and everything
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Online Gambling Uk Legal Regulation
-- 📫 How to reach me ol3eh@proton.me
-- https://glittery-mooncake-7f2f58.netlify.app/
+- 📫 How to reach me ol3eh@proton.me, https://glittery-mooncake-7f2f58.netlify.app/
+- 
 - 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 My specialty is a specialist in finance. At the same time I study development and mobile development.
 
 
+<span class="project"><a href="https://cryptohub.goit.global/" class="project-link">https://cryptohub.goit.global/</a>
