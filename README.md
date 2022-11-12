@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Online Gambling Uk Legal Regulation
 - 📫 How to reach me ol3eh@proton.me, https://glittery-mooncake-7f2f58.netlify.app/
-- 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 -[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I'm+Oleh+Turkovskyi)](https://git.io/typing-svg)
 
 
