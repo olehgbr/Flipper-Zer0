@@ -1,3 +1,9 @@
+
+- 👋 Hi, I’m Oleh 
+- 👀 I’m interested in technology, life, and everything
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on Online Gambling Uk Legal Regulation
+- 📫 How to reach me ol3eh@proton.me, https://glittery-mooncake-7f2f58.netlify.app/
 <!---
 
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,13 +49,6 @@ You can click the Preview link to take a look at your changes.
 <!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open) -->
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
-
-
-- 👋 Hi, I’m Oleh 
-- 👀 I’m interested in technology, life, and everything
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Online Gambling Uk Legal Regulation
-- 📫 How to reach me ol3eh@proton.me, https://glittery-mooncake-7f2f58.netlify.app/
 
 
 
