@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Oleh Turkovskyi
+Oleh Turkovskyi https://glittery-mooncake-7f2f58.netlify.app/
 
 
 -[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I'm+Oleh+Turkovskyi)](https://git.io/typing-svg)
