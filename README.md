@@ -8,7 +8,7 @@
 
 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, Ukraine, IT news writer from UK </h3>
+
 <!---
 ol333eh/ol333eh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
