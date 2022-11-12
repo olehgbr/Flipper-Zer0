@@ -1,4 +1,8 @@
 
+-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I'm+Oleh+Turkovskyi)](https://git.io/typing-svg)
+
+
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 - 👋 Hi, I’m Oleh 
 - 👀 I’m interested in technology, life, and everything
 - 🌱 I’m currently learning python
@@ -55,7 +59,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I'm+Oleh+Turkovskyi)](https://git.io/typing-svg)
-
-
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
