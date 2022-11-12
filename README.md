@@ -2,10 +2,10 @@
 - 👀 I’m interested in technology, life, and everything
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Online Gambling Uk Legal Regulation
-- 📫 How to reach me ol3eh@proton.me
-- https://glittery-mooncake-7f2f58.netlify.app/
+- 📫 How to reach me ol3eh@proton.me, https://glittery-mooncake-7f2f58.netlify.app/
 
-- https://glittery-mooncake-7f2f58.netlify.app/
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
