@@ -1,5 +1,4 @@
-<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open) -->
-<!-- [<img align="right" width="350" height="auto" alt="if you see this, it means my metrics are not working" src="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing">](https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open) -->
+
 -[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+I'm+Oleh+Turkovskyi)](https://git.io/typing-svg)
 
 
